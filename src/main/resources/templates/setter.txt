@@ -1,0 +1,5 @@
+
+	public void ${name}(${data_type} ${field_name}) {
+    		this.${field_name} = ${field_name};
+    }
+

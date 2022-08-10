@@ -1,0 +1,3 @@
+    public ${return_type} ${getter_name}() {
+		return this.${field};
+	}
